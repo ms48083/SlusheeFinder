@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Slushie Finder!</string><string name="quit">Quit</string>
+    <string name="app_name">Slushie Finder</string>
+<string name="find_near_by">Find near by</string>
+<string name="find_on_route">Find on route</string>
+
+</resources>
